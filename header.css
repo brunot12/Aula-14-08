@@ -1,0 +1,30 @@
+.img-movimento{
+    width: 150px;
+    border: 100px groove rgb(228, 175, 238);
+    
+
+    
+}
+.gif-title{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+
+
+}
+.container{
+    text-align: center;
+    border: 50px groove rgb(255, 0, 0)
+    }
+
+    .container2{
+        text-align: center
+        border: 50px groove rgb(255,0,0);
+    }
+
+
+    
+
+
+
